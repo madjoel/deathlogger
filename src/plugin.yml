@@ -1,0 +1,6 @@
+name: DeathLogger
+version: 0.1.0
+author: Matthieu Laqua
+main: one.laqua.deathlogger.DeathLogger
+description: Log deaths and reasons in a parsable way
+api-version: "1.13"
